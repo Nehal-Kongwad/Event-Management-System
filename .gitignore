@@ -1,0 +1,33 @@
+# Ignore database files
+*.db
+*.sqlite
+*.sqlitedb
+*.db-journal
+
+# Ignore temporary files
+*.log
+*.bak
+*.swp
+*.swo
+
+# Ignore configuration files
+*.env
+
+# Ignore editor and IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore operating system files
+Thumbs.db
+.DS_Store
+
+# Ignore compiled or generated SQL files
+*.sql~
+
+# Ignore SQL dump files
+*.sql
+
+# Ignore other irrelevant files
+*.bak
