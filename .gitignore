@@ -25,7 +25,3 @@ Thumbs.db
 
 # Ignore compiled or generated SQL files
 *.sql~
-
-
-# Ignore other irrelevant files
-*.bak
