@@ -149,20 +149,6 @@ GROUP BY E.EventID;
   - Export participant or registration lists to `.csv` for reporting
 
 ---
-
-## 🙋‍♀️ Author
-
-- **Nehal Kongwad**  
-- 🎓 B.Tech CSE, Pimpri Chinchwad College of Engineering  
-- 🔗 [GitHub Profile](https://github.com/Nehal-Kongwad)  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nehal-kongwad)  
-- 📧 nehal.kongwad@example.com  
-
----
-
-If you found this repository useful, please ⭐ the repo and feel free to share your feedback!
-
-
 ## 🤝 Contributing
 
 Contributions are welcome!  
@@ -173,6 +159,22 @@ To contribute:
 3. Commit your changes (`git commit -m 'Add a feature'`)
 4. Push the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
+   
+---
+
+## 🙋‍♀️ Author
+
+- **Nehal Kongwad**  
+- 🎓 B.Tech CSE, Pimpri Chinchwad College of Engineering  
+- 🔗 [GitHub Profile](https://github.com/Nehal-Kongwad)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nehal-kongwad)  
+- 📧 nehal07.k@gmail.com  
+
+---
+
+If you found this repository useful, please ⭐ the repo and feel free to share your feedback!
+
+
 
 
 ---
