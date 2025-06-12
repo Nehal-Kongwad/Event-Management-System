@@ -152,11 +152,16 @@ GROUP BY E.EventID;
 
 ## 🙋‍♀️ Author
 
-- **Nehal Kongwad**
-- 📧 nehal.kongwad@example.com
-- [LinkedIn Profile](#) *(update with your actual LinkedIn URL)*
+- **Nehal Kongwad**  
+- 🎓 B.Tech CSE, Pimpri Chinchwad College of Engineering  
+- 🔗 [GitHub Profile](https://github.com/Nehal-Kongwad)  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nehal-kongwad)  
+- 📧 nehal.kongwad@example.com  
 
 ---
+
+If you found this repository useful, please ⭐ the repo and feel free to share your feedback!
+
 
 ## 🤝 Contributing
 
